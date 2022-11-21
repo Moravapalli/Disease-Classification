@@ -1,5 +1,5 @@
 # Brain Tumor Classification:
-Brain tumors are the group of abnormal cells that grow together in the brain. It can be cancerous(malignant) or can also point to nothing(benign).<b>
+Brain tumors are the group of abnormal cells that grow together in the brain. It can be cancerous(malignant) or can also point to nothing(benign).<br>
 
 > Tumor classification is perfomed on 3 different tumors and a healthy brain using CT-scans.<br>
 
